@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Pandiyarajk
 
 Welcome to my GitHub! I'm passionate about building automation, real-time systems, and robust backend solutions—often with Python and modern frameworks. 
-![Profile Views](https://komarev.com/ghpvc/?username=Pandiyarajk&color=blue)
 
 ---
 ## 🛠️ Tech Stack & Interests
@@ -20,6 +19,8 @@ Welcome to my GitHub! I'm passionate about building automation, real-time system
 ---
 ### Call to Action
 Feel free to connect with me on LinkedIn or follow me on Twitter. I'm always open to discussing new projects or collaboration opportunities!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pandiyarajk&color=blue)
 <!--
 **Pandiyarajk/Pandiyarajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
