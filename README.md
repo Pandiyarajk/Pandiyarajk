@@ -6,6 +6,18 @@
 
 I am passionate about building automation, web services, real-time systems - often with Python and modern frameworks. 
 
+## 📊 GitHub Stats
+
+<!-- General stats: hide stars, show PRs merged, discussions, etc. -->
+![Pandiyarajk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandiyarajk&show=prs_merged,prs_merged_percentage,discussions_started,discussions_answered&hide=stars,contribs)  
+
+<!-- Icons + main stats (languages, commits, etc.) -->
+![Pandiyarajk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandiyarajk&show_icons=true&hide=stars)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandiyarajk&layout=compact&hide=stars)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pandiyarajk&theme=react-dark)
+
 ---
 ## 🛠️ Tech Stack & Interests
 
