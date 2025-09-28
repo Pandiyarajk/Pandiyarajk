@@ -9,12 +9,9 @@ I am passionate about building automation, web services, real-time systems - oft
 ## 📊 GitHub Stats
 
 <!-- General stats: hide stars, show PRs merged, discussions, etc. -->
-![Pandiyarajk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandiyarajk&show=prs_merged,prs_merged_percentage,discussions_started,discussions_answered&hide=stars,contribs)  
-
+![Pandiyarajk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandiyarajk&show=prs_merged,prs_merged_percentage,discussions_started,discussions_answered&hide=stars,contribs&show_icons=true)  
 <!-- Icons + main stats (languages, commits, etc.) -->
-![Pandiyarajk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandiyarajk&show_icons=true&hide=stars)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandiyarajk&layout=compact&hide=stars)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandiyarajk&layout=compact&hide=stars&theme=transparent)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pandiyarajk&theme=react-dark)
 
@@ -34,8 +31,6 @@ I am passionate about building automation, web services, real-time systems - oft
 - **Email**: [pandiyarajk@live.com](mailto:pandiyarajk@live.com)
 ---
 
-![Pandiyarajk's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandiyarajk&show_icons=true&theme=transparent)
-         
 Feel free to connect with me on LinkedIn or follow me on Twitter. I'm always open to discussing new ideas!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pandiyarajk&color=blue)
