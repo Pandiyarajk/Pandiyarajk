@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm passionate about building automation, real-time system
 ---
 
 ### Contact
-- **GitHub**: [GitHub](https://github.com/Pandiyarajk)
+- **GitHub**: [Pandiyarajk](https://github.com/Pandiyarajk)
 - **LinkedIn**: [Pandiyaraj K](https://www.linkedin.com/in/pandiyaraj-k-49353467/)
 - **Twitter**: [@pandiyarajk](https://twitter.com/pandiyarajk)
 - **Email**: [pandiyarajk@live.com](mailto:pandiyarajk@live.com)
