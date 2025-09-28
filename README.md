@@ -21,6 +21,29 @@ I am passionate about building automation, web services, real-time systems - oft
 - **Twitter**: [@pandiyarajk](https://twitter.com/pandiyarajk)
 - **Email**: [pandiyarajk@live.com](mailto:pandiyarajk@live.com)
 ---
+My GitHub 2025 Skyline
+           ____ _ _   _   _       _
+          / ___(_) |_| | | |_   _| |__
+         | |  _| | __| |_| | | | | '_ \
+         | |_| | | |_|  _  | |_| | |_) |
+          \____|_|\__|_| |_|\__,_|_.__/
+
+          ____  _          _ _
+         / ___|| | ___   _| (_)_ __   ___
+         \___ \| |/ / | | | | | '_ \ / _ \
+          ___) |   <| |_| | | | | | | __/
+         |____/|_|\_\\__, |_|_|_| |_|\___|
+         
+                                ╻    ╻╽.............
+                                ░╻  ╻░▓.............
+       ╻ ╻      ╻    ╻     ╻ ╻ ╻░░╻╻░░░.............
+       ░╻░╻     ░    ░ ╻  ╻░ ░ ░░░░░░░░..............
+ ╻╻   ╻░░░░ ╻   ░╻╻  ░╻░  ░░╻░╻░░░░░░░░..............
+╻░░  ╻░░░░░ ░  ╻░░░╻╻░░░╻╻░░░░░░░░░░░░░..............
+░░░░░░░░░░░ ░ ░░░░░░░░░░░░░░░░░░░░░░░░░▒.............
+
+![Pandiyarajk's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandiyarajk&show_icons=true&theme=transparent)
+         
 ### Call to Action
 Feel free to connect with me on LinkedIn or follow me on Twitter. I'm always open to discussing new ideas!
 
