@@ -22,7 +22,7 @@ I am passionate about building automation, web services, real-time systems - oft
 - **Email**: [pandiyarajk@live.com](mailto:pandiyarajk@live.com)
 ---
 ### Call to Action
-Feel free to connect with me on LinkedIn or follow me on Twitter. I'm always open to discussing new projects or collaboration opportunities!
+Feel free to connect with me on LinkedIn or follow me on Twitter. I'm always open to discussing new ideas!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pandiyarajk&color=blue)
 <!--
