@@ -30,7 +30,7 @@ I am passionate about building automation, web services, real-time systems - oft
 - **Twitter**: [@pandiyarajk](https://twitter.com/pandiyarajk)
 - **Email**: [pandiyarajk@live.com](mailto:pandiyarajk@live.com)
 ---
-![snake gif]([https://github.com/pandiyarajk/pandiyarajk/blob/output/github-contribution-grid-snake.svg](https://github.com/Pandiyarajk/Pandiyarajk/blob/output/github-snake.svg))
+![snake gif]([https://github.com/Pandiyarajk/Pandiyarajk/blob/output/github-snake.svg] (https://github.com/Pandiyarajk/Pandiyarajk/blob/output/github-snake.svg))
 ---
 Feel free to connect with me on LinkedIn or follow me on Twitter. I'm always open to discussing new ideas!
 
