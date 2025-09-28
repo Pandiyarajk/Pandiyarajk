@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Pandiyarajk
+# 👋 Hi, I'm Pandiyaraj Karuppasamy
 
-Welcome to my GitHub! I'm passionate about building automation, real-time systems, and robust backend solutions—often with Python and modern frameworks. 
+Welcome to my GitHub! I am passionate about building automation, web services, real-time systems - often with Python and modern frameworks. 
 
 ---
 ## 🛠️ Tech Stack & Interests
@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm passionate about building automation, real-time system
 - **Languages:** Python, C# , MS SQL, Shell scripting
 - **Tools**: Ranorex, TestComplete, Postman
 - **Frameworks:** Selenium, Behave (BDD), Flask, custom automation
-- **Domains:** Automation, DevOps, testing
+- **Domains:** Automation, DevOps, Testing
 - **Other:** GitHub Actions, content scraping, real-time networking
 ---
 ### Contact
