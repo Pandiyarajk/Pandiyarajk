@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Pandiyaraj Karuppasamy
 
-Welcome to my GitHub! I am passionate about building automation, web services, real-time systems - often with Python and modern frameworks. 
+Welcome to my GitHub! 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+I am passionate about building automation, web services, real-time systems - often with Python and modern frameworks. 
 
 ---
 ## 🛠️ Tech Stack & Interests
