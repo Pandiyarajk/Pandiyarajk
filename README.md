@@ -11,7 +11,6 @@ I am passionate about building automation, web services, real-time systems - oft
  General stats: hide stars, show PRs merged, discussions, etc. 
  
 ![Pandiyarajk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandiyarajk&show=prs_merged,prs_merged_percentage,discussions_started,discussions_answered&hide=stars,contribs&show_icons=true)  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandiyarajk&layout=compact&hide=stars&theme=transparent)
 
 <!--
