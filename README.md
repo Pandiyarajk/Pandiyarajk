@@ -62,7 +62,6 @@ I am passionate about building automation, web services, real-time systems - oft
 ---
 Feel free to connect with me on LinkedIn or follow me on Twitter. I'm always open to discussing new ideas!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pandiyarajk&color=blue)
 <!--
 **Pandiyarajk/Pandiyarajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
