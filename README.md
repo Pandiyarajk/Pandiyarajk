@@ -15,8 +15,36 @@ I am passionate about building automation, web services, real-time systems - oft
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pandiyarajk&theme=react-dark)
 -->
 ---
-## 🛠️ Tech Stack & Interests
+<!-- Languages -->
+<p><b>Languages:</b></p>
+<img src="https://skillicons.dev/icons?i=python,cs,mysql,bash" />
 
+<!-- Tools -->
+<p><b>Tools:</b></p>
+<img src="https://skillicons.dev/icons?i=postman,github" />
+<img src="https://img.shields.io/badge/Ranorex-CC0000?style=for-the-badge&logo=ranorex&logoColor=white" />
+<img src="https://img.shields.io/badge/TestComplete-1C4C96?style=for-the-badge&logo=smartbear&logoColor=white" />
+
+<!-- Frameworks -->
+<p><b>Frameworks:</b></p>
+<img src="https://skillicons.dev/icons?i=selenium,flask" />
+<img src="https://img.shields.io/badge/Behave%20(BDD)-43B02A?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Custom%20Automation-000000?style=for-the-badge&logo=automation&logoColor=white" />
+
+<!-- Domains -->
+<p><b>Domains:</b></p>
+<img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white" />
+<img src="https://img.shields.io/badge/Testing-1C1C1C?style=for-the-badge&logo=testinglibrary&logoColor=red" />
+
+<!-- Other -->
+<p><b>Other:</b></p>
+<img src="https://skillicons.dev/icons?i=githubactions" />
+<img src="https://img.shields.io/badge/Content%20Scraping-4CAF50?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Real--Time%20Networking-0066CC?style=for-the-badge&logo=cloudflare&logoColor=white" />
+
+
+## 🛠️ Tech Stack & Interests
 - **Languages:** Python, C# , MS SQL, Shell scripting
 - **Tools**: Ranorex, TestComplete, Postman
 - **Frameworks:** Selenium, Behave (BDD), Flask, custom automation
@@ -24,10 +52,6 @@ I am passionate about building automation, web services, real-time systems - oft
 - **Other:** GitHub Actions, content scraping, real-time networking
 ---
 ### Contact
-- **GitHub**: [Pandiyarajk](https://github.com/Pandiyarajk)
-- **LinkedIn**: [Pandiyaraj K](https://www.linkedin.com/in/pandiyaraj-k-49353467/)
-- **Twitter**: [@pandiyarajk](https://twitter.com/pandiyarajk)
-- **Email**: [pandiyarajk@live.com](mailto:pandiyarajk@live.com)
 
 <div align="center"> 
   <a href="mailto:pandiyarajk@live.com">
