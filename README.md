@@ -22,20 +22,13 @@ I am passionate about building automation, web services, real-time systems - oft
 <img src="https://skillicons.dev/icons?i=cs,python" />
 <img src="https://skillicons.dev/icons?i=postman,flask,selenium" />
 <img height="48" width="48" src="https://cdn.simpleicons.org/cucumber/23D96C" />
-
 <img src="https://skillicons.dev/icons?i=jenkins,github,githubactions" />
+</div>
+<div align="center"> 
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Ranorex-CC0000?style=for-the-badge&logo=ranorex&logoColor=white" />
 <img src="https://img.shields.io/badge/TestComplete-1C4C96?style=for-the-badge&logo=smartbear&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Behave%20(BDD)-43B02A?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/BDD-000000?style=for-the-badge&logo=cucumber&logoColor=white" />
-<img src="https://img.shields.io/badge/BDD-239120?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-
-<img height="48" width="48" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
-<img height="48" width="48" src="https://img.icons8.com/?size=512&id=117561&format=png&color=CC0000" />
-<img height="48" width="48" src="https://cdn.simpleicons.org/smartbear/1C4C96" />
-
 
 </div>
 
