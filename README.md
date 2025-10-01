@@ -21,15 +21,13 @@ I am passionate about building automation, web services, real-time systems - oft
 <div align="center"> 
 <img src="https://skillicons.dev/icons?i=cs,python" />
 <img src="https://skillicons.dev/icons?i=postman,flask,selenium" />
-<img height="48" width="48" src="https://cdn.simpleicons.org/cucumber/23D96C" />
 <img src="https://skillicons.dev/icons?i=jenkins,github,githubactions" />
 </div>
 <div align="center"> 
+<img src="https://img.shields.io/badge/Behave%20(BDD)-43B02A?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Ranorex-CC0000?style=for-the-badge&logo=ranorex&logoColor=white" />
 <img src="https://img.shields.io/badge/TestComplete-1C4C96?style=for-the-badge&logo=smartbear&logoColor=white" />
-<img src="https://img.shields.io/badge/Behave%20(BDD)-43B02A?style=for-the-badge&logo=python&logoColor=white" />
-
 </div>
 
 ### Contact
