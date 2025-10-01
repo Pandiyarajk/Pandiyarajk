@@ -28,6 +28,19 @@ I am passionate about building automation, web services, real-time systems - oft
 - **LinkedIn**: [Pandiyaraj K](https://www.linkedin.com/in/pandiyaraj-k-49353467/)
 - **Twitter**: [@pandiyarajk](https://twitter.com/pandiyarajk)
 - **Email**: [pandiyarajk@live.com](mailto:pandiyarajk@live.com)
+
+<div align="center"> 
+  <a href="mailto:pandiyarajk@live.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=outlook&logoColor=blue" />
+  </a>
+  <a href="https://linkedin.com/in/pandiyaraj-k-49353467" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://pandiyarajk.github.io/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
 ---
 ### Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/Pandiyarajk/Pandiyarajk/blob/output/github-snake.svg)
