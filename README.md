@@ -1,6 +1,3 @@
-
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pandiyarajk.Pandiyarajk" />
 <img align="right" src="https://komarev.com/ghpvc/?username=Pandiyarajk&color=blue" />
 
 <h1 align="center">
