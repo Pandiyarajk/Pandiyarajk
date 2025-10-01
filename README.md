@@ -15,20 +15,17 @@ I am passionate about building automation, web services, real-time systems - oft
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pandiyarajk&theme=react-dark)
 -->
 ---
-<!-- Languages -->
-<p><b>Languages:</b></p>
-<img src="https://skillicons.dev/icons?i=python,cs,mysql,bash" />
 
-<!-- Tools -->
-<p><b>Tools:</b></p>
+## 🛠️ Tech Stack & Interests
+
+<div align="center"> 
+<img src="https://skillicons.dev/icons?i=python,cs,mssql,mysql,bash" />
 <img src="https://skillicons.dev/icons?i=postman,github,githubactions,jenkins" />
 <img src="https://img.shields.io/badge/Ranorex-CC0000?style=for-the-badge&logo=ranorex&logoColor=white" />
 <img src="https://img.shields.io/badge/TestComplete-1C4C96?style=for-the-badge&logo=smartbear&logoColor=white" />
-
-<!-- Frameworks -->
-<p><b>Frameworks:</b></p>
 <img src="https://skillicons.dev/icons?i=python,selenium,flask" />
 <img src="https://img.shields.io/badge/Behave%20(BDD)-43B02A?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
 ## 🛠️ Tech Stack & Interests
 - **Languages:** Python, C# , MS SQL, Shell scripting
