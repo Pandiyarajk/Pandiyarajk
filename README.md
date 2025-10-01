@@ -15,7 +15,8 @@ I am passionate about building automation, web services, real-time systems - oft
 
 ## 📊 GitHub Stats
 
-  
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Pandiyarajk&count_private=true&theme=react&border_radius=10" alt="streak stats"/>  
+
 ![Pandiyarajk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandiyarajk&show=prs_merged,prs_merged_percentage,discussions_started,discussions_answered&hide=stars,contribs&show_icons=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandiyarajk&layout=compact&hide=stars&theme=transparent)
 
 <!--
