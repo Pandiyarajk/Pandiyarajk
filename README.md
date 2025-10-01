@@ -25,14 +25,13 @@ I am passionate about building automation, web services, real-time systems - oft
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Ranorex-CC0000?style=for-the-badge&logo=ranorex&logoColor=white" />
 <img src="https://img.shields.io/badge/TestComplete-1C4C96?style=for-the-badge&logo=smartbear&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Behave%20(BDD)-43B02A?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/BDD-000000?style=for-the-badge&logo=cucumber&logoColor=white" />
+<img src="https://img.shields.io/badge/BDD-239120?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+
 </div>
 
-## 🛠️ Tech Stack & Interests
-- **Languages:** Python, C# , MS SQL, Shell scripting
-- **Tools**: Ranorex, TestComplete, Postman
-- **Frameworks:** Selenium, Behave (BDD), Flask
----
 ### Contact
 
 <div align="center"> 
