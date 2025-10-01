@@ -19,20 +19,19 @@ I am passionate about building automation, web services, real-time systems - oft
 ## 🛠️ Tech Stack & Interests
 
 <div align="center"> 
-<img src="https://skillicons.dev/icons?i=python,cs,mssql,mysql,bash" />
-<img src="https://skillicons.dev/icons?i=postman,github,githubactions,jenkins" />
+<img src="https://skillicons.dev/icons?i=python,cs" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=,github,githubactions,jenkins" />
 <img src="https://img.shields.io/badge/Ranorex-CC0000?style=for-the-badge&logo=ranorex&logoColor=white" />
 <img src="https://img.shields.io/badge/TestComplete-1C4C96?style=for-the-badge&logo=smartbear&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=python,selenium,flask" />
+<img src="https://skillicons.dev/icons?i=postman,flask,selenium" />
 <img src="https://img.shields.io/badge/Behave%20(BDD)-43B02A?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ## 🛠️ Tech Stack & Interests
 - **Languages:** Python, C# , MS SQL, Shell scripting
 - **Tools**: Ranorex, TestComplete, Postman
-- **Frameworks:** Selenium, Behave (BDD), Flask, custom automation
-- **Domains:** Automation, DevOps, Testing
-- **Other:** GitHub Actions, content scraping, real-time networking
+- **Frameworks:** Selenium, Behave (BDD), Flask
 ---
 ### Contact
 
