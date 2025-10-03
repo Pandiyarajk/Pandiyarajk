@@ -62,6 +62,8 @@ I am passionate about building automation, web services, real-time systems - oft
 ---
 Feel free to connect with me on LinkedIn or follow me on Twitter. I'm always open to discussing new ideas!
 
+[![Website](https://img.shields.io/badge/Visit-My%20Site-blue)](https://pandiyarajk.github.io/)
+
 <!--
 **Pandiyarajk/Pandiyarajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
