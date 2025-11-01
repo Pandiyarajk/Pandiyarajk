@@ -38,6 +38,7 @@ I am passionate about building automation, web services, real-time systems - oft
 </div>
 
 ### 📬 Contact
+
 <div align="center"> <a href="mailto:pandiyarajk@live.com"> 
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /> 
 </a> 
