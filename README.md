@@ -1,5 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Pandiyarajk&color=blue" />
-<img src="https://github-stats-f2zg.onrender.com/track" width="1" height="1" style="display:none;">
+<script>
+fetch("https://github-stats-f2zg.onrender.com/track?ref=" + document.referrer);
+</script>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pandiyaraj+Karuppasamy!;" />
