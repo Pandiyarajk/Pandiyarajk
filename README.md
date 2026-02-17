@@ -58,10 +58,11 @@ I am passionate about building automation, web services, real-time systems - oft
 </a> 
 </div>
 
-
+<!--
 ---
 ### Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/Pandiyarajk/Pandiyarajk/blob/output/github-snake.svg)
+-->
 ---
 Feel free to connect with me on LinkedIn or follow me on Twitter. I'm always open to discussing new ideas!
 
