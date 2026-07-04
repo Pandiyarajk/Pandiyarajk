@@ -1,3 +1,6 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=Pandiyarajk&color=blue" />
+<img src="https://github-stats-f2zg.onrender.com/track" width="1" height="1" style="display:none;">
+
 # Pandiyaraj Karuppasamy
 
 **Automation Test Lead · 15+ years in software engineering & test automation · Python | C# · AI-assisted development**
