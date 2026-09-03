@@ -17,7 +17,7 @@ I lead test automation and engineering teams in the physical security / access c
 |---|---|
 | Software engineering & test automation experience | **16+ years** |
 | GitHub contributions in the last 12 months | **15,500+** (13,000+ commits, 1,900+ PRs, 420+ PR reviews) |
-| Python packages published on PyPI | **7** |
+| Python packages published on PyPI | **31** |
 | Public repositories | **70+** |
 | Full-length courses authored | **4** |
 
