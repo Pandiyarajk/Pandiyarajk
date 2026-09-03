@@ -3,7 +3,7 @@
 
 # Pandiyaraj Karuppasamy
 
-**Automation Test Lead · 16+ years in software engineering & test automation · Python | C# · AI-assisted development**
+**Automation Associate Manager · 16+ years in software engineering & test automation · Python | C# · AI-assisted development**
 
 I lead test automation and engineering teams in the physical security / access control industry, building the frameworks, CI/CD pipelines, and developer tooling that ship real products. I publish production tools as open source on PyPI, and I teach — my courses on GitHub Actions, prompt engineering, and context engineering are written for working QA and development engineers, not for likes.
 
