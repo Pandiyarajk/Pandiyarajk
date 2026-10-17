@@ -53,6 +53,7 @@ Production tools I built, packaged and maintain, most used first:
 | [github-email-alert](https://pypi.org/project/github-email-alert/) | ![PyPI](https://img.shields.io/pypi/v/github-email-alert) | ![Downloads](https://img.shields.io/pypi/dm/github-email-alert) | Email alerts for branch, pull request and merge-conflict events in GitHub Actions |
 | [zephyr-scale-test-cycle](https://pypi.org/project/zephyr-scale-test-cycle/) | ![PyPI](https://img.shields.io/pypi/v/zephyr-scale-test-cycle) | ![Downloads](https://img.shields.io/pypi/dm/zephyr-scale-test-cycle) | Update Zephyr Scale Cloud test cycle executions from CI, workflows or BDD runs |
 | [syspanel](https://pypi.org/project/syspanel/) | ![PyPI](https://img.shields.io/pypi/v/syspanel) | ![Downloads](https://img.shields.io/pypi/dm/syspanel) | Local Windows system dashboard: resources, disk tree, battery health, processes, services and cleanup |
+| [sftp-pilot](https://pypi.org/project/sftp-pilot/) | ![PyPI](https://img.shields.io/pypi/v/sftp-pilot) | ![Downloads](https://img.shields.io/pypi/dm/sftp-pilot) | SFTP client with GUI and console, host key checking and a scheduler for recurring uploads, downloads and deletes |
 
 ---
 
