@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pandiyarajk.Pandiyarajk&left_text=Profile%20views" />
+<img align="right" src="https://komarev.com/ghpvc/?username=Pandiyarajk&color=blue" />
 <img src="https://github-stats-f2zg.onrender.com/track" width="1" height="1" style="display:none;">
 
 # Pandiyaraj Karuppasamy
