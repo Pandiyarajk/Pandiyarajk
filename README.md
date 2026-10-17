@@ -5,7 +5,7 @@
 
 **Automation Associate Manager · 16+ years in software engineering & test automation · Python | C# · AI-assisted development**
 
-I lead test automation and engineering teams in the physical security / access control industry, building the frameworks, CI/CD pipelines, and developer tooling that ship real products. I publish production tools as open source on PyPI, and I teach — my courses on GitHub Actions, prompt engineering, and context engineering are written for working QA and development engineers, not for likes.
+I lead test automation and engineering teams in the physical security / access control industry, building the frameworks, CI/CD pipelines, and developer tooling that ship real products. I publish production tools as open source on PyPI, and I teach. My courses on GitHub Actions, prompt engineering, and context engineering are written for working QA and development engineers, not for likes.
 
 📍 Chennai, India · 📫 [pandiyarajk@live.com](mailto:pandiyarajk@live.com) · 🌐 [pandiyarajk.github.io](https://pandiyarajk.github.io/) · 💼 [LinkedIn](https://linkedin.com/in/pandiyaraj-k-49353467)
 
@@ -27,28 +27,32 @@ I lead test automation and engineering teams in the physical security / access c
 
 | Project | What it is |
 |---|---|
-| [**github-actions-course**](https://github.com/Pandiyarajk/github-actions-course) | 20-module GitHub Actions course taking you from your first workflow file to production QA automation — labs, capstones, secure pipelines, matrix builds, Docker, and release automation. |
-| [**prompt-engineering**](https://github.com/Pandiyarajk/prompt-engineering) | Prompt engineering course built specifically for automation testers, manual QA engineers, and developers — generate test cases, automation code, bug reports, and AI agents that actually help. |
+| [**github-actions-course**](https://github.com/Pandiyarajk/github-actions-course) | 20-module GitHub Actions course taking you from your first workflow file to production QA automation: labs, capstones, secure pipelines, matrix builds, Docker, and release automation. |
+| [**prompt-engineering**](https://github.com/Pandiyarajk/prompt-engineering) | Prompt engineering course built specifically for automation testers, manual QA engineers, and developers: generate test cases, automation code, bug reports, and AI agents that actually help. |
 | [**context-engineering**](https://github.com/Pandiyarajk/context-engineering) | 6-week beginner program on context engineering for LLMs: context windows, RAG systems, memory, multi-agent architectures, and production patterns. |
-| [**crypto_course**](https://github.com/Pandiyarajk/crypto_course) | Hands-on cryptography course where you build a working CLI toolkit in Python — SHA-256 hashing, AES, RSA, and bcrypt password security, with the theory behind each. |
+| [**crypto_course**](https://github.com/Pandiyarajk/crypto_course) | Hands-on cryptography course where you build a working CLI toolkit in Python: SHA-256 hashing, AES, RSA, and bcrypt password security, with the theory behind each. |
 | [**winscp_tools**](https://github.com/Pandiyarajk/winscp_tools) | Python SFTP/WinSCP manager with GUI and console interfaces, large-file transfers with progress tracking, and a persistent task scheduler for automated file operations. |
-| [**allure-report-analyzer**](https://github.com/Pandiyarajk/allure-report-analyzer) | PyPI-published CLI that extracts execution statistics, timing, and pass-rate analytics from Allure test reports — built for real CI test suites. |
 
 ---
 
 ## 📦 Open source on PyPI
 
-Production tools I built, packaged, and maintain:
+Production tools I built, packaged and maintain, most used first:
 
-| Package | | Purpose |
-|---|---|---|
-| [powerlogger](https://pypi.org/project/powerlogger/) | ![PyPI](https://img.shields.io/pypi/v/powerlogger) | High-performance, thread-safe logging with Rich console output and file rotation |
-| [logwatchdog](https://pypi.org/project/logwatchdog/) | ![PyPI](https://img.shields.io/pypi/v/logwatchdog) | Real-time Windows log monitoring with notifications and automated log management |
-| [allure-report-analyzer](https://pypi.org/project/allure-report-analyzer/) | ![PyPI](https://img.shields.io/pypi/v/allure-report-analyzer) | Test execution analytics from Allure HTML reports |
-| [function-diff](https://pypi.org/project/function-diff/) | ![PyPI](https://img.shields.io/pypi/v/function-diff) | Function-level diff of Python files between Git refs |
-| [teams-webhook](https://pypi.org/project/teams-webhook/) | ![PyPI](https://img.shields.io/pypi/v/teams-webhook) | Send messages to Microsoft Teams via webhooks |
-| [browseversa](https://pypi.org/project/browseversa/) | ![PyPI](https://img.shields.io/pypi/v/browseversa) | Detect installed browsers and versions on Windows |
-| [pyautoscan](https://pypi.org/project/pyautoscan/) | ![PyPI](https://img.shields.io/pypi/v/pyautoscan) | Windows scanner/printer automation using WIA |
+| Package | Version | Downloads | Purpose |
+|---|---|---|---|
+| [jira-ticket-updater](https://pypi.org/project/jira-ticket-updater/) | ![PyPI](https://img.shields.io/pypi/v/jira-ticket-updater) | ![Downloads](https://img.shields.io/pypi/dm/jira-ticket-updater) | Jira workflow transitions, field updates and comments from the command line or a pipeline |
+| [zephyr-jira-linker](https://pypi.org/project/zephyr-jira-linker/) | ![PyPI](https://img.shields.io/pypi/v/zephyr-jira-linker) | ![Downloads](https://img.shields.io/pypi/dm/zephyr-jira-linker) | Link Zephyr Scale test cases to Jira issues from Git branch names and issue descriptions |
+| [py-printer-server](https://pypi.org/project/py-printer-server/) | ![PyPI](https://img.shields.io/pypi/v/py-printer-server) | ![Downloads](https://img.shields.io/pypi/dm/py-printer-server) | Remote print server for a USB printer, with per-job colour, copies and duplex; no third-party dependencies |
+| [sysresource-monitor](https://pypi.org/project/sysresource-monitor/) | ![PyPI](https://img.shields.io/pypi/v/sysresource-monitor) | ![Downloads](https://img.shields.io/pypi/dm/sysresource-monitor) | Desktop tray toast and CLI for CPU, RAM and per-drive disk usage |
+| [confluence-manager](https://pypi.org/project/confluence-manager/) | ![PyPI](https://img.shields.io/pypi/v/confluence-manager) | ![Downloads](https://img.shields.io/pypi/dm/confluence-manager) | Build Confluence pages with text, tables, charts and images through a fluent Python API |
+| [claudehub-hooks](https://pypi.org/project/claudehub-hooks/) | ![PyPI](https://img.shields.io/pypi/v/claudehub-hooks) | ![Downloads](https://img.shields.io/pypi/dm/claudehub-hooks) | Claude Code hook dispatcher that forwards lifecycle events to a monitor endpoint |
+| [check-json-format](https://pypi.org/project/check-json-format/) | ![PyPI](https://img.shields.io/pypi/v/check-json-format) | ![Downloads](https://img.shields.io/pypi/dm/check-json-format) | Validate JSON files for syntax errors and duplicate keys |
+| [check-duplicate-functions](https://pypi.org/project/check-duplicate-functions/) | ![PyPI](https://img.shields.io/pypi/v/check-duplicate-functions) | ![Downloads](https://img.shields.io/pypi/dm/check-duplicate-functions) | Detect duplicate function names in Python source using AST parsing |
+| [check-duplicate-variables](https://pypi.org/project/check-duplicate-variables/) | ![PyPI](https://img.shields.io/pypi/v/check-duplicate-variables) | ![Downloads](https://img.shields.io/pypi/dm/check-duplicate-variables) | Detect duplicate variable names within the same scope in Python files |
+| [github-email-alert](https://pypi.org/project/github-email-alert/) | ![PyPI](https://img.shields.io/pypi/v/github-email-alert) | ![Downloads](https://img.shields.io/pypi/dm/github-email-alert) | Email alerts for branch, pull request and merge-conflict events in GitHub Actions |
+| [zephyr-scale-test-cycle](https://pypi.org/project/zephyr-scale-test-cycle/) | ![PyPI](https://img.shields.io/pypi/v/zephyr-scale-test-cycle) | ![Downloads](https://img.shields.io/pypi/dm/zephyr-scale-test-cycle) | Update Zephyr Scale Cloud test cycle executions from CI, workflows or BDD runs |
+| [syspanel](https://pypi.org/project/syspanel/) | ![PyPI](https://img.shields.io/pypi/v/syspanel) | ![Downloads](https://img.shields.io/pypi/dm/syspanel) | Local Windows system dashboard: resources, disk tree, battery health, processes, services and cleanup |
 
 ---
 
@@ -56,9 +60,8 @@ Production tools I built, packaged, and maintain:
 
 Frameworks and tooling from day-to-day QA leadership:
 
-- [playwright_bdd_framework](https://github.com/Pandiyarajk/playwright_bdd_framework) / [python_bdd_template](https://github.com/Pandiyarajk/python_bdd_template) — BDD automation framework templates (Playwright, Behave)
-- [jira-ticket-updater](https://github.com/Pandiyarajk/jira-ticket-updater) — Jira workflow transitions, field updates, and comments from automation pipelines
-- [download_chrome_driver](https://github.com/Pandiyarajk/download_chrome_driver) — auto-detects installed Chrome and fetches the matching ChromeDriver
+- [playwright_bdd_framework](https://github.com/Pandiyarajk/playwright_bdd_framework): BDD automation framework template on Playwright
+- [jira-ticket-updater](https://pypi.org/project/jira-ticket-updater/) (PyPI): Jira workflow transitions, field updates, and comments from automation pipelines
 
 Daily drivers: Selenium, Playwright, Behave (BDD), TestComplete, Ranorex, Allure, Zephyr Scale, Jira, Jenkins, GitHub Actions.
 
@@ -66,21 +69,19 @@ Daily drivers: Selenium, Playwright, Behave (BDD), TestComplete, Ranorex, Allure
 
 ## 🤖 AI-assisted engineering
 
-I use AI as applied tooling in real pipelines — code review, test generation, and agent workflows:
+I use AI as applied tooling in real pipelines: code review, test generation, and agent workflows.
 
-- [ai_codereview](https://github.com/Pandiyarajk/ai_codereview) — AI-assisted code review automation
-- [llm-chat-extension](https://github.com/Pandiyarajk/llm-chat-extension) — Chrome extension that brings any LLM API (OpenAI, Anthropic, local models) into every tab
-- [mindtrack](https://github.com/Pandiyarajk/mindtrack) — AI note-taking that extracts action items, priorities, and progress automatically
+- [claudehub-hooks](https://pypi.org/project/claudehub-hooks/) (PyPI): Claude Code hook dispatcher that streams session events to a monitoring dashboard
+- [mindtrack](https://github.com/Pandiyarajk/mindtrack): AI note-taking that extracts action items, priorities, and progress automatically
 - Plus the [prompt-engineering](https://github.com/Pandiyarajk/prompt-engineering) and [context-engineering](https://github.com/Pandiyarajk/context-engineering) courses above
 
 ---
 
 ## 🎓 Teaching & community
 
-- [python_trainer](https://github.com/Pandiyarajk/python_trainer) — Python 3 from zero to building real applications
-- [the_regex](https://github.com/Pandiyarajk/the_regex) — regex mastery: guide, examples, quizzes, and mini projects
-- [python-code-quality-workflows](https://github.com/Pandiyarajk/python-code-quality-workflows) — Black, isort, Flake8, mypy, Bandit, and SonarQube integration guides
-- [avrdude-usage-guide](https://github.com/Pandiyarajk/avrdude-usage-guide) — practical AVRDUDE guide for flashing Arduino boards on Windows
+- [the_regex](https://github.com/Pandiyarajk/the_regex): regex mastery guide with examples, quizzes, and mini projects
+- [python-code-quality-workflows](https://github.com/Pandiyarajk/python-code-quality-workflows): Black, isort, Flake8, mypy, Bandit, and SonarQube integration guides
+- [avrdude-usage-guide](https://github.com/Pandiyarajk/avrdude-usage-guide): practical AVRDUDE guide for flashing Arduino boards on Windows
 
 ---
 
