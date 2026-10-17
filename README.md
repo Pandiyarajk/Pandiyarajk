@@ -31,7 +31,7 @@ Chennai, India · [pandiyarajk@live.com](mailto:pandiyarajk@live.com) · [pandiy
 | [**prompt-engineering**](https://github.com/Pandiyarajk/prompt-engineering) | Prompt engineering course built specifically for automation testers, manual QA engineers, and developers: generate test cases, automation code, bug reports, and AI agents that actually help. |
 | [**context-engineering**](https://github.com/Pandiyarajk/context-engineering) | 6-week beginner program on context engineering for LLMs: context windows, RAG systems, memory, multi-agent architectures, and production patterns. |
 | [**crypto_course**](https://github.com/Pandiyarajk/crypto_course) | Hands-on cryptography course where you build a working CLI toolkit in Python: SHA-256 hashing, AES, RSA, and bcrypt password security, with the theory behind each. |
-| [**winscp_tools**](https://github.com/Pandiyarajk/winscp_tools) | Python SFTP/WinSCP manager with GUI and console interfaces, large-file transfers with progress tracking, and a persistent task scheduler for automated file operations. |
+| [**sftp-pilot**](https://github.com/Pandiyarajk/sftp-pilot) | Python SFTP client with GUI and console interfaces: host key checking, password or key login, large-file transfers with progress, and a persistent scheduler for one-off or recurring uploads, downloads and deletes. |
 
 ---
 
