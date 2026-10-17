@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=Pandiyarajk&color=blue" />
+<img align="right" src="https://komarev.com/ghpvc/?username=Pandiyarajk&label=Profile%20views&color=0e75b6&style=flat" />
 <img src="https://github-stats-f2zg.onrender.com/track" width="1" height="1" style="display:none;">
 
 # Pandiyaraj Karuppasamy
