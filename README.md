@@ -7,11 +7,11 @@
 
 I lead test automation and engineering teams in the physical security / access control industry, building the frameworks, CI/CD pipelines, and developer tooling that ship real products. I publish production tools as open source on PyPI, and I teach. My courses on GitHub Actions, prompt engineering, and context engineering are written for working QA and development engineers, not for likes.
 
-📍 Chennai, India · 📫 [pandiyarajk@live.com](mailto:pandiyarajk@live.com) · 🌐 [pandiyarajk.github.io](https://pandiyarajk.github.io/) · 💼 [LinkedIn](https://linkedin.com/in/pandiyaraj-k-49353467)
+Chennai, India · [pandiyarajk@live.com](mailto:pandiyarajk@live.com) · [pandiyarajk.github.io](https://pandiyarajk.github.io/) · [LinkedIn](https://linkedin.com/in/pandiyaraj-k-49353467)
 
 ---
 
-## 📊 By the numbers
+## By the numbers
 
 | | |
 |---|---|
@@ -23,7 +23,7 @@ I lead test automation and engineering teams in the physical security / access c
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 | Project | What it is |
 |---|---|
@@ -35,7 +35,7 @@ I lead test automation and engineering teams in the physical security / access c
 
 ---
 
-## 📦 Open source on PyPI
+## Open source on PyPI
 
 Production tools I built, packaged and maintain, most used first:
 
@@ -56,7 +56,7 @@ Production tools I built, packaged and maintain, most used first:
 
 ---
 
-## 🧪 Test automation & QA engineering
+## Test automation & QA engineering
 
 Frameworks and tooling from day-to-day QA leadership:
 
@@ -67,7 +67,7 @@ Daily drivers: Selenium, Playwright, Behave (BDD), TestComplete, Ranorex, Allure
 
 ---
 
-## 🤖 AI-assisted engineering
+## AI-assisted engineering
 
 I use AI as applied tooling in real pipelines: code review, test generation, and agent workflows.
 
@@ -77,7 +77,7 @@ I use AI as applied tooling in real pipelines: code review, test generation, and
 
 ---
 
-## 🎓 Teaching & community
+## Teaching & community
 
 - [the_regex](https://github.com/Pandiyarajk/the_regex): regex mastery guide with examples, quizzes, and mini projects
 - [python-code-quality-workflows](https://github.com/Pandiyarajk/python-code-quality-workflows): Black, isort, Flake8, mypy, Bandit, and SonarQube integration guides
@@ -85,7 +85,7 @@ I use AI as applied tooling in real pipelines: code review, test generation, and
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 - **Languages:** Python, C#, JavaScript/TypeScript, C++ (embedded/Arduino)
 - **Testing:** Selenium, Playwright, Behave (BDD), TestComplete, Ranorex, Allure, Postman
@@ -95,7 +95,7 @@ I use AI as applied tooling in real pipelines: code review, test generation, and
 
 ---
 
-## 📬 Contact
+## Contact
 
 <a href="mailto:pandiyarajk@live.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 <a href="https://linkedin.com/in/pandiyaraj-k-49353467"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
