@@ -1,4 +1,4 @@
-<img align="right" src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DPandiyarajk&query=(%2F%2F*%5Blocal-name()%3D%27text%27%5D)%5Blast()%5D&label=Profile%20views&color=blue&cacheSeconds=300" />
+<img align="right" src="https://profile-views-counter.micro-app-alerts.workers.dev/views?username=Pandiyarajk" alt="Profile views" />
 <img src="https://github-stats-f2zg.onrender.com/track" width="1" height="1" style="display:none;">
 
 # Pandiyaraj Karuppasamy
