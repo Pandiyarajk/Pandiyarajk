@@ -31,7 +31,7 @@ Chennai, India · [pandiyarajk@live.com](mailto:pandiyarajk@live.com) · [pandiy
 | [**prompt-engineering**](https://github.com/Pandiyarajk/prompt-engineering) | Prompt engineering course built specifically for automation testers, manual QA engineers, and developers: generate test cases, automation code, bug reports, and AI agents that actually help. |
 | [**context-engineering**](https://github.com/Pandiyarajk/context-engineering) | 6-week beginner program on context engineering for LLMs: context windows, RAG systems, memory, multi-agent architectures, and production patterns. |
 | [**crypto_course**](https://github.com/Pandiyarajk/crypto_course) | Hands-on cryptography course where you build a working CLI toolkit in Python: SHA-256 hashing, AES, RSA, and bcrypt password security, with the theory behind each. |
-| [**sftp-pilot**](https://github.com/Pandiyarajk/sftp-pilot) | Python SFTP client with GUI and console interfaces: host key checking, password or key login, large-file transfers with progress, and a persistent scheduler for one-off or recurring uploads, downloads and deletes. |
+| [**sftp-pilot**](https://github.com/Pandiyarajk/sftp-pilot) | Python SFTP client with a light and dark window, a console menu and a persistent scheduler: several servers, whole folders, host key checking, atomic uploads, and a Windows program that needs no Python. |
 
 ---
 
@@ -53,7 +53,7 @@ Production tools I built, packaged and maintain, most used first:
 | [github-email-alert](https://pypi.org/project/github-email-alert/) | ![PyPI](https://img.shields.io/pypi/v/github-email-alert) | ![Downloads](https://img.shields.io/pypi/dm/github-email-alert) | Email alerts for branch, pull request and merge-conflict events in GitHub Actions |
 | [zephyr-scale-test-cycle](https://pypi.org/project/zephyr-scale-test-cycle/) | ![PyPI](https://img.shields.io/pypi/v/zephyr-scale-test-cycle) | ![Downloads](https://img.shields.io/pypi/dm/zephyr-scale-test-cycle) | Update Zephyr Scale Cloud test cycle executions from CI, workflows or BDD runs |
 | [syspanel](https://pypi.org/project/syspanel/) | ![PyPI](https://img.shields.io/pypi/v/syspanel) | ![Downloads](https://img.shields.io/pypi/dm/syspanel) | Local Windows system dashboard: resources, disk tree, battery health, processes, services and cleanup |
-| [sftp-pilot](https://pypi.org/project/sftp-pilot/) | ![PyPI](https://img.shields.io/pypi/v/sftp-pilot) | ![Downloads](https://img.shields.io/pypi/dm/sftp-pilot) | SFTP client with GUI and console, host key checking and a scheduler for recurring uploads, downloads and deletes |
+| [sftp-pilot](https://pypi.org/project/sftp-pilot/) | ![PyPI](https://img.shields.io/pypi/v/sftp-pilot) | ![Downloads](https://img.shields.io/pypi/dm/sftp-pilot) | SFTP client with a window and a console, several servers, host key checking and a scheduler for recurring uploads, downloads and deletes |
 
 ---
 
